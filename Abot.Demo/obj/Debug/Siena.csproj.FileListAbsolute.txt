@@ -1,0 +1,17 @@
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\bin\Debug\Siena.exe.config
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\bin\Debug\Siena.exe
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\bin\Debug\Siena.pdb
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\bin\Debug\EntityFramework.dll
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\bin\Debug\log4net.dll
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\bin\Debug\MySql.Data.dll
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\bin\Debug\EntityFramework.xml
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\bin\Debug\log4net.xml
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\obj\Debug\Siena.csprojResolveAssemblyReference.cache
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\obj\Debug\Siena.csproj.CoreCompileInputs.cache
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\obj\Debug\Siena.exe
+C:\Users\janse\source\Workspaces\Siena\Abot\Abot.Demo\obj\Debug\Siena.pdb
